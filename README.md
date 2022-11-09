@@ -5,3 +5,5 @@ stepik 2.5 https://docs.google.com/document/d/1A9Poqmd6oVC32Zv1CDt1ExIyzUEAUUTeN
 stepik 3.1 https://docs.google.com/document/d/1CLlcmc_-MJNrmGX8auLxcBtENa9BNKWXEAHCoj0t1iI/edit?usp=sharing
 
 stepik 3.2 https://docs.google.com/document/d/1Tk8eI0h7B1IY0wOcooJhfWPj30i_0_CkDZ0-qvW8BUs/edit?usp=sharing
+
+stepik 3.3 https://docs.google.com/document/d/1UINlRvTm4MRDj-L0_3PcwU1V8dVAMp049FO56GQj_5Q/edit?usp=sharing
