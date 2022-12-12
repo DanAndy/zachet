@@ -12,3 +12,5 @@ stepik 3.3 https://docs.google.com/document/d/1UINlRvTm4MRDj-L0_3PcwU1V8dVAMp049
 
 1.1-1.8 https://docs.google.com/document/d/1cn_67pIgIQwiWjPDVKRicfNcf23M6nc60LvOSPoB3pU/edit?usp=drivesdk
 https://docs.google.com/document/d/1-TBDHIKR4bR5jtct-wPbhhonBCev-rIc-JbwRAw0BZQ/edit?usp=drivesdk
+
+РЛАУ решение линейных уравнений https://docs.google.com/spreadsheets/d/1V3t-Au0YjsfdWtLXr2a15Ztn6C0nBva3/edit?usp=sharing&ouid=114987831998259542559&rtpof=true&sd=true
